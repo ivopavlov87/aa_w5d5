@@ -1,7 +1,7 @@
 ## Partner A: White Boarding
 
 ## Sorts
-
+ 
 ### Binary Search
 
 Write a method that binary searches an array for a target and returns its
